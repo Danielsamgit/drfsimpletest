@@ -2,7 +2,7 @@
 # exit on error
 set -o errexit
 
-pip install --upgrade pip' command
+pip install --upgrade pip command
 
 pip install -t requirements.txt
 
